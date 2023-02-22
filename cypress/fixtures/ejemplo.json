@@ -1,0 +1,21 @@
+{
+  "website":"https://demoqa.com/automation-practice-form",
+  "title":"DEMOQA",
+  "firstName":"Susana",
+  "idName":"#firstName",
+  "lastName":"Gálvez",
+  "idLasName":"#lastName",
+  "email":"Sugalsi@gmail.com",
+  "idEmail":"#userEmail",
+  "phoneNumber":"676129070",
+  "subject":"Matemáticas",
+  "address":"C/Navarra Portal 1",
+  "idAddress":"#currentAddress",
+  "idRadioButton1":"#gender-radio-1",
+  "idRadioButton2":"#gender-radio-2",
+  "idRadioButton3":"#gender-radio-3",
+  "imagen":"CapturaFlores.PNG"
+  
+}
+
+
